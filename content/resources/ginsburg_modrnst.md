@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6c76982f-64e5-10cc-21e0-4e749c6439d1
 resourcetype: Document
 title: ginsburg_modrnst.pdf
 uid: c0925690-1a69-fb4e-eaed-321f566f96eb

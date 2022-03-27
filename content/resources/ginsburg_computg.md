@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6c76982f-64e5-10cc-21e0-4e749c6439d1
 resourcetype: Document
 title: ginsburg_computg.pdf
 uid: 5924fef8-2b98-a258-3175-0daef06bfaf9

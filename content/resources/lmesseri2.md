@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6c76982f-64e5-10cc-21e0-4e749c6439d1
 resourcetype: Document
 title: lmesseri2.pdf
 uid: db344af9-2041-e5e5-d19e-e53beac641ed

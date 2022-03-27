@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6c76982f-64e5-10cc-21e0-4e749c6439d1
 resourcetype: Document
 title: fox_crystalfire.pdf
 uid: a96089fb-1b03-43cb-358c-982a9bb3c072
