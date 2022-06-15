@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section contains 6 complete set of student works as an example to
+  understand course material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 6c76982f-64e5-10cc-21e0-4e749c6439d1
 ---
@@ -29,7 +30,7 @@ papers
 Harold Fox
 {{< tdclose >}}
 {{< tdopen >}}
-Review of Hoddeson & Riordan's _Crystal Fire: The Birth of the Information Age_ ({{< resource_link a96089fb-1b03-43cb-358c-982a9bb3c072 "PDF" >}})
+Review of Hoddeson & Riordan's _Crystal Fire: The Birth of the Information Age_ ({{% resource_link a96089fb-1b03-43cb-358c-982a9bb3c072 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +39,7 @@ Review of Hoddeson & Riordan's _Crystal Fire: The Birth of the Information Age_ 
 Hope Ginsburg
 {{< tdclose >}}
 {{< tdopen >}}
-Modernist Visions: Reviews of Hughes' _American Genesis_ and Wohl's _A Passion for Wings_ ({{< resource_link c0925690-1a69-fb4e-eaed-321f566f96eb "PDF" >}})
+Modernist Visions: Reviews of Hughes' _American Genesis_ and Wohl's _A Passion for Wings_ ({{% resource_link c0925690-1a69-fb4e-eaed-321f566f96eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ Modernist Visions: Reviews of Hughes' _American Genesis_ and Wohl's _A Passion f
 Hope Ginsburg
 {{< tdclose >}}
 {{< tdopen >}}
-Computing: Review of Black's _IBM and the Holocaust_ ({{< resource_link 5924fef8-2b98-a258-3175-0daef06bfaf9 "PDF" >}})
+Computing: Review of Black's _IBM and the Holocaust_ ({{% resource_link 5924fef8-2b98-a258-3175-0daef06bfaf9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +57,7 @@ Computing: Review of Black's _IBM and the Holocaust_ ({{< resource_link 5924fef8
 Lisa Messeri
 {{< tdclose >}}
 {{< tdopen >}}
-Review of Kern's _The Culture of Time and Space_ ({{< resource_link 8e3e86d7-22c2-895f-efeb-315220b08bb9 "PDF" >}})
+Review of Kern's _The Culture of Time and Space_ ({{% resource_link 8e3e86d7-22c2-895f-efeb-315220b08bb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +66,7 @@ Review of Kern's _The Culture of Time and Space_ ({{< resource_link 8e3e86d7-22c
 Lisa Messeri
 {{< tdclose >}}
 {{< tdopen >}}
-Review of Fritzsche's _A Nation of Fliers_ ({{< resource_link db344af9-2041-e5e5-d19e-e53beac641ed "PDF" >}})
+Review of Fritzsche's _A Nation of Fliers_ ({{% resource_link db344af9-2041-e5e5-d19e-e53beac641ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +75,7 @@ Review of Fritzsche's _A Nation of Fliers_ ({{< resource_link db344af9-2041-e5e5
 Lisa Messeri
 {{< tdclose >}}
 {{< tdopen >}}
-Review of Waldrop's _The Dream Machine_ ({{< resource_link 0bbe58e9-f749-b6ad-edfb-78c41ac57d77 "PDF" >}})
+Review of Waldrop's _The Dream Machine_ ({{% resource_link 0bbe58e9-f749-b6ad-edfb-78c41ac57d77 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
