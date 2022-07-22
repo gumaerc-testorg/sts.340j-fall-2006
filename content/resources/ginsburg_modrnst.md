@@ -5,6 +5,7 @@ file: /courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/c092
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ginsburg_modrnst.pdf
 uid: c0925690-1a69-fb4e-eaed-321f566f96eb
 ---
 Sample student paper.
-

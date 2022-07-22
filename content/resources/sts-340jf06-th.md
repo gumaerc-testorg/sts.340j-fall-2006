@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Several people standing next to gun turret of USS Monitor.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-340jf06-th.jpg
 uid: 05dee3bb-8712-8c57-759b-24080c43932b
 ---
 New image Upload
-

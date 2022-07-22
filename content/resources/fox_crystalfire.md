@@ -5,6 +5,7 @@ file: /courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/a960
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fox_crystalfire.pdf
 uid: a96089fb-1b03-43cb-358c-982a9bb3c072
 ---
 Sample student paper.
-
