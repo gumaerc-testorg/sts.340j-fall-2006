@@ -7,8 +7,7 @@ file_type: image/jpeg
 image_metadata:
   caption: View on deck of the USS Monitor looking forward on the starboard side,
     while the ship was in the James River, Virginia, 9 July 1862. (Image courtesy
-    of {{% resource_link "4642c087-89a1-4cb2-bf69-208f7d7c77cb" "U.S. Naval Historical
-    Center" %}}.)
+    of [U.S. Naval Historical Center](http://www.history.navy.mil/).)
   credit: ''
   image-alt: Several people standing next to gun turret of USS Monitor.
 learning_resource_types: []
