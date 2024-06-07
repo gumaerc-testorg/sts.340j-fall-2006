@@ -72,9 +72,9 @@ Cronon, William. _Nature's Metropolis: Chicago and the Great West_. New York, NY
 
 Marx, Leo. _The Machine in the Garden: Technology and the Pastoral Idea in America_. New York, NY: Oxford University Press, 2000. ISBN: 9780195133516.
 
-{{% resource_link "c9d9e625-22eb-47d5-87ec-dfe5fbc892c9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Nye, David. {{% resource_link "c9d9e625-22eb-47d5-87ec-dfe5fbc892c9" "_Electrifying America_" %}}. Cambridge, MA: MIT Press, 1992. ISBN: 9780262640305.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640305) Nye, David. [_Electrifying America_](https://mitpress.mit.edu/9780262640305). Cambridge, MA: MIT Press, 1992. ISBN: 9780262640305.
 
-{{% resource_link "2a31f65c-2888-4937-96b4-ba68b7b13a02" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. {{% resource_link "2a31f65c-2888-4937-96b4-ba68b7b13a02" "_American Technological Sublime_" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 9780262640343.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640343) ———. [_American Technological Sublime_](https://mitpress.mit.edu/9780262640343). Cambridge, MA: MIT Press, 1996. ISBN: 9780262640343.
 
 
 {{< tdclose >}}
@@ -94,7 +94,7 @@ Hounshell, David. _From the American System to Mass Production_. Baltimore, MD: 
 
 Smith, M. R. _Harper's Ferry Armory and the New Technology_. Ithaca, NY: Cornell University Press, 1980. ISBN: 9780801491818.
 
-{{% resource_link "de27da96-ec3c-41f6-bf56-2fc6bb59b2dd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hughes, Agatha, and Thomas Hughes, eds. {{% resource_link "de27da96-ec3c-41f6-bf56-2fc6bb59b2dd" "_Systems, Experts and Computers: The Systems Approach in Management and Engineering, World War II and After_" %}}. Cambridge, MA: MIT Press, 2000. ISBN: 9780262082853.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082853) Hughes, Agatha, and Thomas Hughes, eds. [_Systems, Experts and Computers: The Systems Approach in Management and Engineering, World War II and After_](https://mitpress.mit.edu/9780262082853). Cambridge, MA: MIT Press, 2000. ISBN: 9780262082853.
 
 Castells, Manuel. _The Rise of the Network Society_. 2nd ed. Malden, MA: Blackwell Publishers, 2000. ISBN: 9780631221401.
 
@@ -118,7 +118,7 @@ Human and Machine I: War Machines
 
 Mindell, David A. _War, Technology, and Experience Aboard the USS 'Monitor'_. Baltimore, MD: Johns Hopkins University Press, 2000. ISBN: 9780801862502.
 
-{{% resource_link "0c480386-fb7b-4e3a-9198-c217acd714b2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Smith, Merritt Roe, ed. {{% resource_link "0c480386-fb7b-4e3a-9198-c217acd714b2" "_Military Enterprise and Technological Change: Perspectives on the American Experience_" %}}. Cambridge, MA: MIT Press, 1987. ISBN: 9780262691185.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691185) Smith, Merritt Roe, ed. [_Military Enterprise and Technological Change: Perspectives on the American Experience_](https://mitpress.mit.edu/9780262691185). Cambridge, MA: MIT Press, 1987. ISBN: 9780262691185.
 
 Pick, Daniel. _War Machine: The Rationalization of Slaughter in the Modern Age_. New Haven, CT: Yale University Press, 1996. ISBN: 9780300067194.
 
@@ -126,7 +126,7 @@ Van Creveld, Martin. _Command in War_. Cambridge, MA: Harvard University Press, 
 
 McNeill, William. _The Pursuit of Power: Technology, Armed Force, and Society since AD 1000_. Chicago: University of Chicago Press, 1984. ISBN: 9780226561585.
 
-{{% resource_link "31d57f7c-1e63-425d-8a14-02108449d96d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} MacKenzie, Donald. {{% resource_link "31d57f7c-1e63-425d-8a14-02108449d96d" "_Inventing Accuracy: An Historical Sociology of Nuclear Missile Guidance_" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 9780262631471.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631471) MacKenzie, Donald. [_Inventing Accuracy: An Historical Sociology of Nuclear Missile Guidance_](https://mitpress.mit.edu/9780262631471). Cambridge, MA: MIT Press, 1993. ISBN: 9780262631471.
 
 Fussel, Paul. _The Great War and Modern Memory_. New York, NY: Oxford University Press, 2000. ISBN: 9780195133325.
 
@@ -236,7 +236,7 @@ Technology and Representation I
 
 Benjamin, Walter. "The Work of Art in the Age of Mechnical Reproduction." In _Illuminations: Essays and Reflections_. Translated by Harry Zohn. Edited by Hannah Arendt. New York, NY: Schocken Books, 1969. ISBN: 9780805202410.
 
-{{% resource_link "4a8ff583-4a08-4dc0-92db-06904b883484" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Thompson, Emily. {{% resource_link "4a8ff583-4a08-4dc0-92db-06904b883484" "_The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900-1933_" %}}. Cambridge, MA: MIT Press, 2004, chapters 1, 3, 4, and 5. ISBN: 9780262701068.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262701068) Thompson, Emily. [_The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900-1933_](https://mitpress.mit.edu/9780262701068). Cambridge, MA: MIT Press, 2004, chapters 1, 3, 4, and 5. ISBN: 9780262701068.
 
 Baudrillard, Jean. _Simulations_. Los Angeles, CA: Semiotexte/Smart Art, 1983. ISBN: 9780936756028.
 
@@ -258,9 +258,9 @@ Waldrop, Mitch. _Dream Machine: J. C. R. Licklider and the Revolution That Made 
 
 Mindell, David. _Between Human and Machine: Feedback, Control, and Computing Before Cybernetics_. Baltimore, MD: Johns Hopkins University Press, 2004. ISBN: 9780801880575.
 
-{{% resource_link "3ff25b43-683a-46a8-aa55-e2701e455d69" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ceruzzi, Paul. {{% resource_link "3ff25b43-683a-46a8-aa55-e2701e455d69" "_A History of Modern Computing_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2003. ISBN: 9780262532037.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262532037) Ceruzzi, Paul. [_A History of Modern Computing_](https://mitpress.mit.edu/9780262532037). 2nd ed. Cambridge, MA: MIT Press, 2003. ISBN: 9780262532037.
 
-{{% resource_link "e63dff49-940e-485a-9136-87d8f0ffeb5c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Edwards, Paul. {{% resource_link "e63dff49-940e-485a-9136-87d8f0ffeb5c" "_The Closed World: Computers and the Politics of Discourse in Cold War America_" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 9780262550284.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262550284) Edwards, Paul. [_The Closed World: Computers and the Politics of Discourse in Cold War America_](https://mitpress.mit.edu/9780262550284). Cambridge, MA: MIT Press, 1997. ISBN: 9780262550284.
 
 Black, Edwin. _IBM and the Holocaust_. Boston, MA: Little, Brown and Co, 2001. ISBN: 9780316857710.
 
@@ -276,7 +276,7 @@ Black, Edwin. _IBM and the Holocaust_. Boston, MA: Little, Brown and Co, 2001. I
 In-class Film Viewing: _Architecture of Doom_
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "9c3b4677-e31d-4883-a378-93a76edf8745" "_Architecture of Doom_" %}}
+[_Architecture of Doom_](http://www.imdb.com/title/tt0098559/)
 {{< tdclose >}}
 
 {{< trclose >}}
