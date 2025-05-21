@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student paper.
-file: /ol-ocw-studio-app/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/db344af92041e5e5d19ee53beac641ed_lmesseri2.pdf
+file: /courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/db344af92041e5e5d19ee53beac641ed_lmesseri2.pdf
 file_size: 20773
 file_type: application/pdf
 learning_resource_types:

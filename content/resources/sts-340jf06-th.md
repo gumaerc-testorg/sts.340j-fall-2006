@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/05dee3bb87128c57759b24080c43932b_sts-340jf06-th.jpg
+file: /courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/05dee3bb87128c57759b24080c43932b_sts-340jf06-th.jpg
 file_size: 7751
 file_type: image/jpeg
 image_metadata:
